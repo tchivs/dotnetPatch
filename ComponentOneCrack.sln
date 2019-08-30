@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cracker", "Cracker\Cracker.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tchivs.patch", "tchivs.patch\tchivs.patch.csproj", "{03667180-E525-4910-9FBE-A85947AE318B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dnlib", "..\..\dnlib\src\dnlib.csproj", "{D3B341BA-EF33-48FB-B706-D9CDA76FF683}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{03667180-E525-4910-9FBE-A85947AE318B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03667180-E525-4910-9FBE-A85947AE318B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03667180-E525-4910-9FBE-A85947AE318B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B341BA-EF33-48FB-B706-D9CDA76FF683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B341BA-EF33-48FB-B706-D9CDA76FF683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B341BA-EF33-48FB-B706-D9CDA76FF683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B341BA-EF33-48FB-B706-D9CDA76FF683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
